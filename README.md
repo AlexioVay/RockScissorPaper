@@ -6,6 +6,6 @@ I have written this Rock Scissor Paper game in ReactJS to complete a task I have
 - Save the game score, even when refreshing the browser
 - Desktop and mobile responsive
 
+You can find the game and the source code on [CodePen](https://codepen.io/alexiovay/pen/rEEmEz?editors=0110#0). I haven't uploaded the files here since I might be still working on the code, directly on CodePen.
 
-
-You can find the game and the source code [here on CodePen](https://codepen.io/alexiovay/pen/rEEmEz?editors=0110#0). I haven't uploaded the files here since I might be still working on the code, directly on CodePen.
+![preview](https://github.com/AlexioVay/RockScissorPaperReact/blob/master/RockScissorPaper.gif)
